@@ -35,7 +35,7 @@ To run this analysis, make sure you install the necessary dependencies:
 
 1. Install Python: https://www.python.org/downloads/
 2. Install and run Jupyter Lab:  https://jupyter.org/install
-3. Clone the repository: git clone "git@github.com:mikenguyenx/13_ml_neural_networks" using git or download the ZIP file and extract it to a local directory.
+3. Clone the repository: git clone "https://github.com/mikenguyenx/13_ml_neural_networks.git" using git or download the ZIP file and extract it to a local directory.
 
 ## Usage
 
@@ -49,11 +49,11 @@ To run the script:
 
 The steps for this challenge are broken out into the following sections:
 
-Prepare the data for use on a neural network model.
+- Prepare the data for use on a neural network model.
 
-Compile and evaluate a binary classification model using a neural network.
+- Compile and evaluate a binary classification model using a neural network.
 
-Optimize the neural network model.
+- Optimize the neural network model.
 
 ## Deep Learning Neural Networks 
 
